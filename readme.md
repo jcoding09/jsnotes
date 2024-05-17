@@ -6,4 +6,8 @@
 
 #### [Topic 001: Arrays, Arrow function, Object, Map, Filter, Reduce, Mutability and Immutability, Destructuring](./notes/notes001/notes001-001.md)
 
-#### [Topic 002: Closure, Callback, Async await, Promises, Destructuring](./notes/notes001/notes001-002.md)
+#### [Topic 002: Closure, Callback, Async await, Promises](./notes/notes001/notes001-002.md)
+
+#### [Topic 003: Screen WakeLock](./notes/notes001/notes001-003.md)
+
+#### [Topic 004: Concept refresher JS](./notes/notes001/notes001-004.md)
