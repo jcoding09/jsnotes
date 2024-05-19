@@ -11,3 +11,5 @@
 #### [Topic 003: Screen WakeLock](./notes/notes001/notes001-003.md)
 
 #### [Topic 004: Concept refresher JS](./notes/notes001/notes001-004.md)
+
+#### [Topic 005: ES5 & ES6 features in JS](./notes/notes001/notes001-005.md)
