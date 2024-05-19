@@ -12,4 +12,8 @@
 
 #### [Topic 004: Concept refresher JS](./notes/notes001/notes001-004.md)
 
-#### [Topic 005: ES5 & ES6 features in JS](./notes/notes001/notes001-005.md)
+#### [Topic 005: ES5, ES6, ES7, ES8 features in JS](./notes/notes001/notes001-005.md)
+
+#### [Topic 006: Service worker in JS](./notes/notes001/notes001-006.md)
+
+#### [Topic 007: Shared worker JS](./notes/notes001/notes001-007.md)
