@@ -14,6 +14,12 @@
 
 #### [Topic 005: ES5, ES6, ES7, ES8 features in JS](./notes/notes001/notes001-005.md)
 
-#### [Topic 006: Service worker in JS](./notes/notes001/notes001-006.md)
+#### [Topic 006: Service workers in JS](./notes/notes001/notes001-006.md)
 
-#### [Topic 007: Shared worker JS](./notes/notes001/notes001-007.md)
+#### [Topic 007: Shared workers in JS](./notes/notes001/notes001-007.md)
+
+#### [Topic 008: Web workers in JS](./notes/notes001/notes001-008.md)
+
+#### [Topic 009: Spread, Rest, Generators, Iterators, Currying](./notes/notes001/notes001-009.md)
+
+#### [Topic 010: Polyfill in JS](./notes/notes001/notes001-010.md)
