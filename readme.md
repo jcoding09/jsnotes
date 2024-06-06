@@ -23,3 +23,5 @@
 #### [Topic 009: Spread, Rest, Generators, Iterators, Currying](./notes/notes001/notes001-009.md)
 
 #### [Topic 010: Polyfill in JS](./notes/notes001/notes001-010.md)
+
+#### [Topic 011: Coding Questions in JS](./notes/notes001/notes001-011.md)
