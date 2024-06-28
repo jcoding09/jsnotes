@@ -26,4 +26,4 @@
 
 #### [Topic 011: Coding Questions in JS](./notes/notes001/notes001-011.md)
 
-#### [Topic 012: Call, Apply and Bind in JS](./notes/notes001/notes001-011.md)
+#### [Topic 012: Call, Apply and Bind in JS](./notes/notes001/notes001-012.md)
