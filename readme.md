@@ -25,3 +25,5 @@
 #### [Topic 010: Polyfill in JS](./notes/notes001/notes001-010.md)
 
 #### [Topic 011: Coding Questions in JS](./notes/notes001/notes001-011.md)
+
+#### [Topic 012: Call, Apply and Bind in JS](./notes/notes001/notes001-011.md)
