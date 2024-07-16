@@ -27,5 +27,3 @@
 #### [Topic 011: Coding Questions in JS](./notes/notes001/notes001-011.md)
 
 #### [Topic 012: Call, Apply and Bind in JS](./notes/notes001/notes001-012.md)
-
-#### [Topic 013: NodeJS `fs` and `https-proxy-agent` module](./notes/notes001/notes001-013.md)
