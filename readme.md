@@ -29,3 +29,5 @@
 #### [Topic 012: Call, Apply and Bind in JS](./notes/notes001/notes001-012.md)
 
 #### [Topic 013: WeakSets, Nullish Coalescing, and Optional Chaining in JS](./notes/notes001/notes001-013.md)
+
+#### [Topic 014: Managing Variable Scope and Data Flow in Asynchronous JavaScript Functions](./notes/notes001/notes001-014.md)
