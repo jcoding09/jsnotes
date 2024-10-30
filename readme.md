@@ -31,3 +31,5 @@
 #### [Topic 013: WeakSets, Nullish Coalescing, and Optional Chaining in JS](./notes/notes001/notes001-013.md)
 
 #### [Topic 014: Managing Variable Scope and Data Flow in Asynchronous JavaScript Functions](./notes/notes001/notes001-014.md)
+
+#### [Topic 015: JSON Methods (`stringify` and `parse`) & `localStorage` API and in JS](./notes/notes001/notes001-015.md)
